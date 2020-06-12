@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/inkia-hackaton/static/css/main.01d4d2e7.chunk.css",
+    "main.js": "/inkia-hackaton/static/js/main.e14c64b5.chunk.js",
+    "main.js.map": "/inkia-hackaton/static/js/main.e14c64b5.chunk.js.map",
+    "runtime-main.js": "/inkia-hackaton/static/js/runtime-main.bc599c4f.js",
+    "runtime-main.js.map": "/inkia-hackaton/static/js/runtime-main.bc599c4f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/inkia-hackaton/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4258e2df.chunk.js": "/inkia-hackaton/static/js/2.4258e2df.chunk.js",
+    "static/js/2.4258e2df.chunk.js.map": "/inkia-hackaton/static/js/2.4258e2df.chunk.js.map",
+    "index.html": "/inkia-hackaton/index.html",
+    "precache-manifest.2d8ad6bab5491200d86a48ce1d810fd6.js": "/inkia-hackaton/precache-manifest.2d8ad6bab5491200d86a48ce1d810fd6.js",
+    "service-worker.js": "/inkia-hackaton/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/inkia-hackaton/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.01d4d2e7.chunk.css.map": "/inkia-hackaton/static/css/main.01d4d2e7.chunk.css.map",
+    "static/js/2.4258e2df.chunk.js.LICENSE.txt": "/inkia-hackaton/static/js/2.4258e2df.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/inkia-hackaton/static/media/Logo.28e991d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc599c4f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4258e2df.chunk.js",
+    "static/css/main.01d4d2e7.chunk.css",
+    "static/js/main.e14c64b5.chunk.js"
+  ]
+}
